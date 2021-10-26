@@ -2,7 +2,7 @@
 
 Team Details:
 - Shumbul Arifa (181CO152)
-- Sri Krishna Yaji (181CO153)
+- Srikrishna G. Yaji (181CO153)
 - Tarun S. Anur (181CO255)
 
 <hr>
