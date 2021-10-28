@@ -24,7 +24,7 @@ Task to be done:
 - A new separate API has to be developed starting from the node creation.
 
 ### Approach-2
-Tweak the implementation of Linux kernel uing these below commands, 
+Tweak the implementation of Linux kernel using these below commands, 
 ```
 ip link set dev <ethernet> multipath <on/off> 
 ip link set dev <ethernet> multipath backup
