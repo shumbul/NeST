@@ -8,7 +8,6 @@ Team Details:
 <hr>
 
 ## About the project
-
 Multipath TCP (MPTCP) is an ongoing effort of the Internet Engineering Task Force's(IETF) Multipath TCP working group, that aims at allowing a Transmission Control Protocol (TCP) connection to use multiple paths to maximize resource usage and increase
 redundancy. 
 It has been quite challenging for the research community to perform experiments with MPTCP because it is not supported in popular network simulators. 
