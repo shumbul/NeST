@@ -1,5 +1,4 @@
 # Extend NeST to support emulation of Multipath TCP
-
 Team Details:
 - Shumbul Arifa (181CO152)
 - Srikrishna G. Yaji (181CO153)
@@ -14,11 +13,9 @@ It has been quite challenging for the research community to perform experiments 
 The main aim of this project is to leverage the Linux implementation of MPTCP by building user-friendly APIs in NeST.
 
 ## Design
-
 Two possible approaches were found in order to incorporate MPTCP.
 
 ### Approach-1)
-
 Since NeSt uses executes linux network namespaces under the hood we can run the ```ip mptcp``` command (https://man7.org/linux/man-pages/man8/ip-mptcp.8.html) to emulate it. 
 
 Advantages:
@@ -27,9 +24,7 @@ Advantages:
 Disadvantages:
 - A new separate API has to be developed starting from the node creation which seems problematic.
 
-
 ### Approach-2)
-
 Update the linux kernel to support MPTCP.
 This provides us with 
 ```
