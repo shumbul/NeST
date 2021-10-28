@@ -35,5 +35,5 @@ commands to make the network use mptcp and also specify how should the additiona
 
 Following approach-2 we should create, 
 1. a function which executes, making a link as backup
-2. a function which checks if the required protocol is MPTCP ? if yes..then multipath switched on else off.
+2. a function which checks if the required protocol is MPTCP? if yes..then multipath switched on else off.
 3. a function which checks if the requirements are satisfied by the system for MPTCP protocol to be used. 
